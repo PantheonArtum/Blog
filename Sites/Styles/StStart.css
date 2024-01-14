@@ -1,0 +1,13 @@
+#L{
+    text-decoration: none;
+    color: black;
+}
+#langCon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:200px;
+    height:90vh;
+    
+}

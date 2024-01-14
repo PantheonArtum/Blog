@@ -1,0 +1,27 @@
+body{
+    display: flex;
+
+}
+
+#header{
+    width:90vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+#wampe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90vw;
+    height: 100px;
+
+}
