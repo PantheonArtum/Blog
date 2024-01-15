@@ -7,9 +7,9 @@ function App() {
   return (
     <>
        <Routes>
-        <Route path='/' exact element={<Start/>}  />
-        <Route path='/DE' element={<DE/>}  />
-        <Route path='/PL' element={<PL/>}  />
+        <Route path='/Blog' exact element={<Start/>}  />
+        <Route path='/Blog/DE' element={<DE/>}  />
+        <Route path='/Blog/PL' element={<PL/>}  />
        </Routes>
     </>
   )

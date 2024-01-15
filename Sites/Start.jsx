@@ -4,8 +4,8 @@ const Start = ()=>{
     return(
     <>
         <div id='langCon'>
-            <Link id='L' to="/DE">Deutsch</Link>
-            <Link id='L'to="/PL">Polski</Link>
+            <Link id='L' to="/Blog/DE">Deutsch</Link>
+            <Link id='L'to="/Blog/PL">Polski</Link>
         </div>
     </>)
 }
