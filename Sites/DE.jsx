@@ -7,10 +7,10 @@ const DE =()=>{
         <>
         <section id='header'>
         <h1>Kunst Pantheon</h1>
-        <Link to='/PL'>Polski</Link>
+        <Link id='Ll' to='/PL'>Polski</Link>
         </section>
         <section id='wampe'>
-            <Post name='Erster' title='Willkommen' text='herzlich Willkommen zu unsere Blogseite!'></Post>
+            <Post name='Erster' title='Willkommen' text='Wir sind ein frisches Unternehmen, gegründet von einen ambitionierten Paar mit einer passion für Games, Kunst und Literatur'></Post>
 
         </section>
         <section id='footer'>

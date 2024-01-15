@@ -9,13 +9,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom:solid 2px black;
 
 }
 #wampe{
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 90vh;
+    height: 100vh;
 }
 #footer{
     display: flex;
@@ -24,4 +24,17 @@ body{
     width: 90vw;
     height: 100px;
 
+}
+#Ll{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 70px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+#Ll:hover{
+    border: solid 2px rgb(210, 210, 210);
 }

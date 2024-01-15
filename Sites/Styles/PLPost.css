@@ -1,0 +1,14 @@
+#Pierwszy{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+#Pierwszy:hover{
+    border: solid 2px rgb(210, 210, 210);
+}
